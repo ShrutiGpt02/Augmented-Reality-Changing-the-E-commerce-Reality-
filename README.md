@@ -163,10 +163,12 @@ The future of e-commerce will not be defined by who displays products best, but 
 
 Here is a polished ending statement you can add at the end of your GitHub article, with a placeholder for your LinkedIn link:
 
-## Original Publication
+## ## Connect with Me
 
-This article was originally published on my LinkedIn profile, where I share insights, learnings, and perspectives on emerging technologies and innovation.
-
-You can read the complete article on LinkedIn here:
+If you'd like to engage with the discussion or view the original post, you can find it here:
 
 🔗[Article Link](https://www.linkedin.com/pulse/augmented-reality-changing-e-commerce-shruti-gupta-ffwyc/)
+
+I regularly share insights on Business Analysis, SQL, Power BI, and analytics on LinkedIn.
+
+🔗[LinkedIn Link](https://www.linkedin.com/in/shruti-gupta-16605018b/)
