@@ -1,10 +1,6 @@
 # Augmented Reality Changing the E-commerce Reality 
 ### Evaluating Virtual Try-On as a Strategic Growth Lever for Online Jewellery Retailers
 
-</> Markdown
-
-![banner-image](banner-image.png)
-
 Business Analysis Case Study | Author: Shruti Gupta
 
 ## Executive Summary
