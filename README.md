@@ -60,6 +60,7 @@ The proposed Virtual Try-On solution was evaluated against the key business chal
 
 ## Stakeholder Analysis
 Successful implementation requires alignment across multiple stakeholder groups.
+
 -Customers: Gain the confidence to overcome suitability doubts after viewing static images.
 
 -Marketing Team: Increase engagement to prevent drop-off during the browsing phase.
@@ -76,6 +77,7 @@ Successful implementation requires alignment across multiple stakeholder groups.
 The proposed solution should support the following capabilities
 
 Functional Requirements:
+
 -FR-01: Users should be able to launch the Virtual Try-On experience using their device camera.
 
 -FR-02: Users should be able to visualise jewellery products in real time.
@@ -90,35 +92,52 @@ Functional Requirements:
 The value of Virtual Try-On extends beyond conversion optimization. Its broader impact includes:
 
 ### Customer Experience
+
 -More immersive shopping journeys
+
 -Increased purchase confidence
+
 -Better product discovery
 
 ### Competitive Positioning
+
 -Stronger brand differentiation
+
 -Enhanced digital customer experience
+
 -Greater innovation perception
 
 ### Data & Insights
+
 -Better merchandising decisions
+
 -Improved understanding of customer preferences
+
 -Richer behavioural analytics
 
 ## Key Success Metrics
 The success of Virtual Try-On should be evaluated through measurable business outcomes rather than feature adoption alone.
 
 ### Commercial Metrics
+
 -Conversion Rate
+
 -Add-to-Cart Rate
+
 -Revenue Per Visitor
 
 ### Customer Experience Metrics
+
 -Customer Satisfaction
+
 -Product Engagement
+
 -Return Rate
 
 ### Strategic Metrics
+
 -Brand Differentiation
+
 -Innovation Adoption
 
 ## Recommendation
