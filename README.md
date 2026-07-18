@@ -7,9 +7,13 @@ As online shopping continues to grow, retailers face a fundamental challenge: cu
 
 This case study explores how Augmented Reality-powered Virtual Try-On (VTO) can address these challenges by improving product visualization, enhancing customer confidence, and supporting business growth.
 The analysis focuses on:
-Business challenges
-Stakeholder needs
-Solution requirements
-Expected business outcomes
-Success measurement criteria
+-Business challenges
+-Stakeholder needs
+-Solution requirements
+-Expected business outcomes
+-Success measurement criteria
 
+## Business Objective
+To evaluate whether Augmented Reality-powered Virtual Try-On can improve customer confidence, reduce purchase friction, and enhance key e-commerce performance metrics for online jewellery retailers.
+
+Business Challenge
