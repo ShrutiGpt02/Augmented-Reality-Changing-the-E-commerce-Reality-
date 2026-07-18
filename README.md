@@ -160,3 +160,13 @@ This case study demonstrates the role of a Business Analyst in identifying busin
 
 ## Key Takeaway
 The future of e-commerce will not be defined by who displays products best, but by who helps customers experience products before they buy.
+
+Here is a polished ending statement you can add at the end of your GitHub article, with a placeholder for your LinkedIn link:
+
+## Original Publication
+
+This article was originally published on my LinkedIn profile, where I share insights, learnings, and perspectives on emerging technologies and innovation.
+
+You can read the complete article on LinkedIn here:
+
+🔗[Article Link](https://www.linkedin.com/pulse/augmented-reality-changing-e-commerce-shruti-gupta-ffwyc/)
