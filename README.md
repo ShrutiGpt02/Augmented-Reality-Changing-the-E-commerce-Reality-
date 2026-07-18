@@ -51,6 +51,8 @@ By allowing customers to visualize jewellery on themselves in real time, the sol
 ### Future Customer Journey
 Customer visits website ----> Selects jewellery product ----> Launches Virtual Try-On -----> Visualizes product in real time -----> Builds purchase confidence -----> Completes transaction
 
+![journey](journey.png)
+
 ## Solution Evaluation
 The proposed Virtual Try-On solution was evaluated against the key business challenges identified during the current-state analysis.
 
@@ -64,6 +66,8 @@ The proposed Virtual Try-On solution was evaluated against the key business chal
 
 ## Stakeholder Analysis
 Successful implementation requires alignment across multiple stakeholder groups.
+
+![stakeholders](stakeholders.png)
 
 -Customers: Gain the confidence to overcome suitability doubts after viewing static images.
 
